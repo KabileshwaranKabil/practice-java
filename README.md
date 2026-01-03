@@ -13,3 +13,20 @@ A repository containing command-line Java applications designed to practice core
   - Understanding the behavior of `nextLine()` after `nextInt()` in Scanner
 - **Source Code**: [View here](todo-app/com/kabilesh/todoapp)
 
+### 2. RunLength Encoding
+- **Created Date**: Aug 23 2025
+- **Description**: Demonstrates lossless compression using run-length encoding with a small CLI example.
+- **Key Learnings**:
+  - Implementing simple compression algorithms
+  - Iterating and grouping consecutive characters
+  - Using `StringBuilder` for efficient string manipulation
+- **Source Code**: [View here](run-length-encoding/)
+
+### 3. Shannon Fano
+- **Created Date**: Aug 23 2025
+- **Description**: Builds variable-length prefix codes based on symbol probabilities via recursive partitioning.
+- **Key Learnings**:
+  - Calculating symbol frequencies and probabilities
+  - Recursively partitioning sorted data to generate codes
+  - Representing coding tables and visualizing outputs
+- **Source Code**: [View here](shannon-fano/)
